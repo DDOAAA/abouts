@@ -1,4 +1,4 @@
-# security-portfolio
+# abouts
 
 Offensive Security Engineer portfolio for [DDOAAA](https://github.com/DDOAAA).
 
@@ -8,4 +8,4 @@ This repository is a buildless static site. Publish it from the `main` branch ro
 
 The resulting URL is:
 
-https://ddoaaa.github.io/security-portfolio/
+https://ddoaaa.github.io/abouts/
